@@ -1,16 +1,68 @@
-<!-- ### Hi there 👋 -->
-
 <!--
-**jasmineMonquieLewis/jasmineMonquieLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Section Format (To Do)
 
-Here are some ideas to get you started:
+# Personal Branding Statement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+# Personal Vision & Mission
+
+
+# Professional Biography
+
+
+# Notable Professional Accomplishments
+Minimum 2 Per Section
+
+## Entrepreneurship
+ 
+
+## Software
+
+
+## Volunteer
+
+
+## Artistikk
+
+
+# Notable Personal Accomplishments
+## Education
+
+## Financial
+
+## ?
+
+# Professional Hard Skills
+## Programming Languages
+
+## Tools
+
+
+## Technical
+
+
+# Professional Soft Skills
+## 
+
+## 
+
+## 
+
+
+# Current Professional Projects
+## Perfect Meal Solutions 
+
+
+## Gameigloo
+
+
+# Contact Information
+### Email 
+jasmine.lewis@artistikrebellion.us
+
+### Cell
++1 (504) 782 - 8208
+
+
+
 -->
