@@ -57,12 +57,13 @@ Minimum 2 Per Section
 
 
 # Contact Information
-### Email 
+## Personal Email 
 jasmine.lewis@artistikrebellion.us
 
-### Cell
+## Business Email
+jasmine.lewis@artistikrebellion.us
+
+## Cell
 +1 (504) 782 - 8208
-
-
 
 -->
