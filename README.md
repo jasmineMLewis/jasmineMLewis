@@ -54,9 +54,6 @@ Minimum 2 Per Section
 
 
 # Current Professional Projects
-## Perfect Meal Solutions 
-
-
 ## Gameigloo
 Gameigloo is a social network for trading card game enthusiasts, providing a platform for players to connect, discuss achievements, set goals, explore game rulings, share deck strategies, and analyze game mechanics. Members can also receive mentorship and expert advice from professional players.
 
