@@ -26,15 +26,15 @@ Minimum 2 Per Section
 ## Volunteer
 
 
-## Artistikk
-
 
 # Notable Personal Accomplishments
 ## Education
 
 ## Financial
 
-## ?
+## Artistikk
+
+## Hobbies
 
 # Professional Hard Skills
 ## Programming Languages
