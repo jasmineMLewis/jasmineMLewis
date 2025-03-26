@@ -1,5 +1,5 @@
 # Personal Branding Statement
-Building Enterprise Software with a Seamless Fusion of Creativity with Engineering to Deliver Elegant, Scalable, and Human-Centriced Solutions
+Building Enterprise Software with a Seamless Fusion of Creativity with Engineering to Deliver Elegant, Scalable, and Human-Centered Solutions
 
 # Purpose
 ## Vision
