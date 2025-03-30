@@ -28,13 +28,7 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
 </p>
 
 ## Notable Accomplishments
-- Assumed primary developer role and led final phases of migration of Microsoft Access system to the internal SPA web-based NPIAS Data Warehouse, enabling the FAA to assess funding eligibility, rank airports, and evaluate NPIAS status for 3,300 airports using Angular 7, C#.NET, MVC, N-Tier architecture, Entity Framework, and LINQ across UI, BLL, and DAL layers.
-- Modernized Housing Choice Connect, a web platform connecting 17,000 Section 8 voucher holders to 1,500+ properties by reducing 7 steps to 2 and building dashboards for user and property management using VB.NET, ASP.NET, Web Forms, Bootstrap 3, JavaScript, and a monolithic architecture.
-- Reengineered the Quality Control Monitor, a CMS that enables auditors to assess 23,129 Public Housing and Section 8 client documents, by streamlining error reporting, enhancing the user interface, and reducing load time from 5 minutes to 1 through database normalization and redesign using ASP.NET 4.0 and Master and Nested Pages.
-- Maintained and supported the National Based Aircraft Inventory Program, a web application enabling 88% of non-primary NPIAS airports to submit and document aircraft details using VB.NET, HTML5, CSS3, and JavaScript.
-- Orchestrated the Choice Neighborhood Initiative Scholarship web app, digitizing applications and enabling a four-member committee to review submissions, awarding $2,000+ in scholarships to 40+ applicants since 2018.
-- Revitalized the File Tracker app to automate a four-stage file request process for 150 employees, track archived and destroyed files, and manage users, boxes, and requests using VB.NET, JavaScript validation, and a 9-table database.
-- Launched the agency’s first electronic ID badge receipt system, Sign.ly, automating the generation and email delivery of digitally signed PDFs to relevant parties using VB.NET, Bootstrap 4, and the IronPDF library.
+- Led final phases of migrating a legacy Microsoft Access system to the internal SPA-based NPIAS Data Warehouse, enabling the FAA to assess funding eligibility, rank 3,300 airports, and evaluate NPIAS status; assumed primary developer role after team reduction and delivered a scalable solution using Angular 7, C#.NET, MVC, Entity Framework, and LINQ across a 50+ table database.
 
 
 
