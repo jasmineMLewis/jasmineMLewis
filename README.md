@@ -11,19 +11,20 @@ My misson is to leverage systems and processes to provide products and services 
 
 # Professional Biography
 <p>
-Jasmine M. Lewis is a solutions-driven software engineer who blends creativity and technical expertise to build scalable, human-centered enterprise applications. With expertise in both front-end and back-end development, she specializes in C#.NET, ASP.NET Core, Angular, MVC, RESTful APIs, and the design and implementation of robust, scalable databases.
+
+Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity with technical expertise to deliver scalable, human-centered enterprise applications. With a strong foundation in both front-end and back-end development, Jasmine specializes in C# .NET, ASP.NET Core, Angular, MVC, RESTful APIs, and designing robust, scalable databases
 </p>
 
 <p>
-Jasmine thrives in Agile (Scrum) environments, collaborating with cross-functional teams to deliver enhancements aligned with Program Increment (PI) objectives. She uses Azure DevOps for version control, sprint planning, and task tracking to drive efficiency and team alignment.
+
 </p>
 
 <p>
-She has delivered impactful software solutions for the Housing Authority of New Orleans, Civix, Inc., and Blue Streak Technologies, and is the founder of IglooNation Tech, where she merges engineering with entrepreneurship to create tech solutions with purpose.
+
 </p>
 
 <p>
-Jasmine graduated Cum Laude from Xavier University of Louisiana in 2015 and completed a Ruby on Rails bootcamp with Tech Talent & Strategy in 2019. She is also a proud alumna of the ULEAD Leadership Academy Fellowship (2019) and LEAD Together Fellowship (2017), focused on equity, advocacy, and civic leadership.
+
 </p>
 
 # Notable Accomplishments
