@@ -2,16 +2,13 @@
 Building Enterprise Software with a Seamless Fusion of Creativity with Engineering to Deliver Elegant, Scalable, and Human-Centered Solutions
 
 ## Purpose
-### Vision
-My vision is for individuals of the human species to reach their full potential and exceed it.
-
-### Mission
-My misson is to leverage systems and processes to provide products and services to achieve equity and equality.
+<p>Vision: For every individual to reach—and exceed—their full potential.</p>
+<p>Mission: To leverage systems and processes to develop products and services that drive equity and equality.</p>
 
 
-## Professional Biography
+## Bio
+
 <p>
-
 Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity with technical expertise to deliver scalable, human-centered enterprise applications. With a strong foundation in both front-end and back-end development, Jasmine specializes in: </p>
 - VB.NET
 - C# .NET
