@@ -22,20 +22,15 @@ Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity
 - RESTful APIs
 - Scalable, robus database design
 
-<p>
-She has successfully developed impactful software solutions for organizations such as the Housing Authority of New Orleans, Civix, Inc., and Blue Streak Technologies. As the founder of IglooNation Tech, Jasmine bridges engineering with entrepreneurship, crafting tech solutions that are not only innovative but purposeful.
-</p>
+<p>She has successfully developed impactful software solutions for organizations such as: </p>
+- Housing Authority of New Orleans
+- Civix, Inc.
+- Blue Streak Technologies
 
-<p>
-Jasmine is a proud Cum Laude graduate of Xavier University of Louisiana (2015) and further honed her skills through a Ruby on Rails bootcamp with Tech Talent & Strategy (2019).
-</p>
+<p>As the founder of IglooNation Tech, Jasmine bridges engineering with entrepreneurship, crafting tech solutions that are not only innovative but purposeful.</p>
+
+<p>Jasmine is a proud Cum Laude graduate of Xavier University of Louisiana (2015) and further honed her skills through a Ruby on Rails bootcamp with Tech Talent & Strategy (2019).</p>
 
 <p>
 Beyond technology, Jasmine is deeply committed to community service. She serves as a Board Member of People Housing+ and has held leadership roles in the Junior League of New Orleans, demonstrating her passion for giving back and driving positive change.
 </p>
-
-## Notable Accomplishments
-- Led final phases of migrating a legacy Microsoft Access system to the internal SPA-based NPIAS Data Warehouse, enabling the FAA to assess funding eligibility, rank 3,300 airports, and evaluate NPIAS status; assumed primary developer role after team reduction and delivered a scalable solution using Angular 7, C#.NET, MVC, Entity Framework, and LINQ across a 50+ table database.
-
-
-
