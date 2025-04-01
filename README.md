@@ -13,14 +13,14 @@ My misson is to leverage systems and processes to provide products and services 
 <p>
 
 Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity with technical expertise to deliver scalable, human-centered enterprise applications. With a strong foundation in both front-end and back-end development, Jasmine specializes in: </p>
-• VB.NET
-• C# .NET
-• ASP.NET
-• ASP.NET Core
-• Angular
-• MVC
-• RESTful APIs
-• Scalable, robus database design
+- VB.NET
+- C# .NET
+- ASP.NET
+- ASP.NET Core
+- Angular
+- MVC
+- RESTful APIs
+- Scalable, robus database design
 
 <p>
 She has successfully developed impactful software solutions for organizations such as the Housing Authority of New Orleans, Civix, Inc., and Blue Streak Technologies. As the founder of IglooNation Tech, Jasmine bridges engineering with entrepreneurship, crafting tech solutions that are not only innovative but purposeful.
