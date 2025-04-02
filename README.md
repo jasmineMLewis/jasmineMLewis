@@ -102,6 +102,14 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
   • Automated code/reviewer assignment, four-stage review sequencing, and rating calculations using PHP6, PDO, JavaScript, and a monolithic architecture backed by a 40-table SQL database.
 
 
+<br/>
+
+> **Note:** Some past client websites are no longer live due to business transitions.  
+> Code samples or project breakdowns are available upon request.
+
+
+<br/>
+
 ## 🤝 Community Impact
 
 - Oversaw $50K+ in nonprofit funding decisions for the **Junior League of New Orleans**, demonstrating financial accountability and strategic leadership.  
