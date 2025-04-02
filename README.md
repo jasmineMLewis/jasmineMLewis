@@ -39,22 +39,59 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
 
 ## 🏆 Technical Accomplishments
 
-- **Developed Choice Neighborhood Initiative Scholarship App** — Digitized a previously manual scholarship review process, enabling a four-member committee to award $2,000+ in scholarships to 40+ applicants since 2018.  
+- **Modernized Housing Choice Connect** — Streamlined user flow from 7 steps to 2 for a platform serving 17,000+ Section 8 voucher holders and 1,500+ properties. Built dashboards for user/property management.  
   **Application:** [🔗 View the application](https://legacy.hano.org/HousingChoiceConnect/)  
-  **Tech stack:** VB.NET, ASP.NET, Web Forms, JavaScript, Bootstrap 3, Monolithic architecture, SQL Server (13-table DB)
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Housing-Choice-Connect)  
+  **Tech stack:** VB.NET (.NET 6), ASP.NET 4.0, Web Forms, JavaScript, Bootstrap 3, Monolithic architecture, SQL Server (13-table DB)
 
 - **FAA NPIAS Data Warehouse Migration** — Led the final migration of a legacy Microsoft Access system to a scalable, SPA-based internal data warehouse. Enabled the FAA to assess funding eligibility, rank 3,300 airports, and evaluate NPIAS status. Took over as primary developer after a team reduction.  
-  **Tech stack:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ, N-Tier architecture, SQL Server (50+ tables DB)
+  **Tech stack:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ, N-Tier architecture, SQL Server (50+ table DB)
 
 - **Reengineered Quality Control Monitor (CMS)** — Audited 23,129+ public housing and Section 8 client documents by reducing page load times from 5 minutes to 1, streamlining error reporting (from 4 to 3 reports), and enhancing the UI.  
-  **Tech stack:** ASP.NET 4.0, Web Forms, JavaScript, Bootstrap 4, Master and Nested Pages, Monolithic architecture, SQL Server (18-table database)
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
+  **Tech stack:** VB.NET (.NET 6), ASP.NET 4.0, Web Forms, JavaScript, Bootstrap 4, Master and Nested Pages, Monolithic architecture, SQL Server (18-table DB)
 
 - **Developed Choice Neighborhood Initiative Scholarship App** — Digitized a previously manual scholarship review process, enabling a four-member committee to award $2,000+ in scholarships to 40+ applicants since 2018.  
   **Application:** [🔗 View the application](https://legacy.hano.org/CNIScholarshipProgram/)  
-  **Tech stack:** VB.NET, ASP.NET, Web Forms, JavaScript, Bootstrap 4, Monolithic architecture, SQL Server (3-table DB)
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
+  **Tech stack:** VB.NET (.NET 6), ASP.NET 4.0, Web Forms, JavaScript, Bootstrap 4, Monolithic architecture, SQL Server (3-table DB)
 
 - **Revitalized File Tracker App** — Automated a four-stage file request process for 150+ employees. Tracked archived/destroyed files and managed users, boxes, and requests.  
-  **Tech stack:** VB.NET,  ASP.NET, Web Forms, JavaScript, Bootstrap 4, Monolithic architecture, SQL Server (9-table DB)
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/File-Tracker)  
+  **Tech stack:** VB.NET (.NET 6), ASP.NET 4.0, Web Forms, JavaScript, Bootstrap 4, Monolithic architecture, SQL Server (9-table DB)
+
+- **Cisco Phone Voicemail Dashboard** — Developed a web application to track and analyze voicemail activity for 150 employees, enabling improved visibility and communication performance across departments.  
+  **Tech stack:** VB.NET (.NET 6), ASP.NET 4.0, Web Forms, Themes & Skins, Monolithic architecture, SQL Server (1-table DB)
+
+
+## 🧾 Client Projects
+
+### 🔄 Current Clients
+
+- **Next To Eat**  
+  **Project:** Next To Eat Website  
+  **Role:** Website Designer  
+  **Website:** [🔗 View the website](https://nexttoeat.com/)  
+  • Designing a website to showcase the Culinary Ambassador of New Orleans, Executive Chef Gary Netter's brand: Wholistic Culinary Market and Partners.
+
+- **DreamMega**  
+  **Project:** DreamMega Conference Website  
+  **Role:** Website Designer  
+  **Website:** [🔗 View the website](https://dreammegaconference.com/)  
+  • Designing both a one-pager and multi-page website to communicate the DreamMega brand and market its three-day conference.
+
+  **Project:** DreamMega Social Network Platform  
+  **Role:** Product Owner  
+  • Facilitating communication and deliverables with an offshore development team (India).  
+  • Designing user interface in Figma for Mentor, Tenant, and Institution roles and features.  
+  • Drafting and maintaining Epics, Features, User Stories, and Bugs in Azure DevOps—ensuring business alignment, sprint readiness, and delivery clarity across teams.
+
+
+
+### ✅ Past Clients
+
+
+
 
 ## 🤝 Community Impact
 
@@ -68,6 +105,12 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
 **Frameworks:** ASP.NET (Core, MVC, Web Forms), Angular  
 **Tools:** SQL Server, MySQL, Bootstrap, Git, GitHub, Visual Studio, Azure DevOps  
 **Focus Areas:** Full-Stack Development, UI/UX (Design, Development), Database (Design, Development), API Development
+
+
+## 🧪 Currently Exploring
+
+- Preparing for Scrum Fundamentals Certification (ScrumSTUDY)
+- Taking a beginner-level Angular course on Udemy to solidify core concepts
 
 
 ## 🌐 Find Me Online
