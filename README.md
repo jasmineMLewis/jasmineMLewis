@@ -4,7 +4,6 @@
 
 Building Enterprise Software with a Seamless Fusion of Creativity with Engineering to Deliver Elegant, Scalable, and Human-Centered Solutions.
 
-
 ## 🎯 Purpose
 
 **Vision:** For every individual to reach—and exceed—their full potential.  
@@ -86,11 +85,21 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
   • Designing user interface in Figma for Mentor, Tenant, and Institution roles and features.  
   • Drafting and maintaining Epics, Features, User Stories, and Bugs in Azure DevOps—ensuring business alignment, sprint readiness, and delivery clarity across teams.
 
-
-
 ### ✅ Past Clients
 
+- **Xavier University of Louisiana**  
+  **Project:** Prostate Cancer Training Website  
+  **Role:** Angular Developer  
+  **Website:** [🔗 View the website](http://prostatecancertraining.com/home)  
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
+  • Developed an Angular 15 single-page application (SPA) that transformed static PowerPoint content into an interactive educational site.  
+  • Educated users on prostate health, cancer risks, and screening options while ensuring cross-device accessibility and clarity.
 
+  **Project:** Best Practice Cultural Competence  
+  **Role:** PHP Full Stack Developer  
+  **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Best-Practice-Cultural-Competence)  
+  • Designed and developed a custom peer-review web CMS for an 8-member remote research team.  
+  • Automated code/reviewer assignment, four-stage review sequencing, and rating calculations using PHP6, PDO, JavaScript, and a monolithic architecture backed by a 40-table SQL database.
 
 
 ## 🤝 Community Impact
