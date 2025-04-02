@@ -2,7 +2,7 @@
 
 **Techartistry Software Engineer | Founder @ IglooNation Tech | Purpose-Driven Technologist**
 
-Building Enterprise Software with a Seamless Fusion of Creativity with Engineering to Deliver Elegant, Scalable, and Human-Centered Solutions.
+Building Enterprise Software through a Seamless Fusion of Creativity with Engineering—-Deliver Elegant, Scalable, and Human-Centered Solutions
 
 ## 🎯 Purpose
 
@@ -71,7 +71,7 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
   **Project:** Next To Eat Website  
   **Role:** Website Designer  
   **Website:** [🔗 View the website](https://nexttoeat.com/)  
-  • Designing a website to showcase the Culinary Ambassador of New Orleans, Executive Chef Gary Netter's brand: Wholistic Culinary Market and Partners.
+  • Designing a multi-page website to showcase the Culinary Ambassador of New Orleans, Executive Chef Gary Netter's brand: Wholistic Culinary Market and Partners.
 
 - **DreamMega**  
   **Project:** DreamMega Conference Website  
@@ -87,7 +87,7 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
 
 ### ✅ Past Clients
 
-- **Xavier University of Louisiana**  
+- **Xavier University of Louisiana (College of Pharmacy)**  
   **Project:** Prostate Cancer Training Website  
   **Role:** Angular Developer  
   **Website:** [🔗 View the website](http://prostatecancertraining.com/home)  
