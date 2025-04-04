@@ -55,14 +55,12 @@ Streamlined user flow from 7 steps to 2 for 17,000+ voucher holders and 1,500+ p
 - **Database:** SQL Server (13-table DB)
 
 
-
 ### **FAA NPIAS Data Warehouse Migration**  
 Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ  
 - **Architecture:** N-Tier  
 - **Database:** SQL Server (50+ table DB)
-
 
 
 ### **Quality Control Monitor (CMS)**  
@@ -78,7 +76,8 @@ Audited 23,000+ housing docs; reduced page loads from 5 minutes to 1; simplified
 
 ### **Choice Neighborhood Initiative Scholarship App**  
 Digitized scholarship workflow, enabling $2,000+ in funds for 40+ applicants since 2018.  
-**App:** [🔗 View](https://legacy.hano.org/CNIScholarshipProgram/) | **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
+**App:** [🔗 View](https://legacy.hano.org/CNIScholarshipProgram/)<br>
+**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
 - **Architecture:** Monolithic  
@@ -113,7 +112,12 @@ Built a dashboard to track and analyze voicemail activity across departments.
 ### **Next To Eat**  
 **Role:** Website Designer  
 **Website:** [🔗 View](https://nexttoeat.com/)  
-• Designing a multi-page website for Executive Chef Gary Netter’s brand: Wholistic Culinary Market & Partners.
+**Tech Stack:**  
+- **Tools & Platforms:** Azure DevOps, SquareSpace   
+- **Development Approach:** SDLC, Agile (Scrum)
+
+**Highlights:**  
+- Designing a multi-page website for Executive Chef Gary Netter’s brand: Wholistic Culinary Market & Partners.
 
 
 
@@ -121,13 +125,23 @@ Built a dashboard to track and analyze voicemail activity across departments.
 **Project 1:** DreamMega Conference Website  
 **Role:** Website Designer  
 **Website:** [🔗 View](https://dreammegaconference.com/)  
-• Designing branded one-pager and multi-page site to promote a three-day conference.
+**Tech Stack:**  
+- **Tools & Platforms:** Azure DevOps, Figma, WordPress   
+- **Development Approach:** SDLC, Agile (Scrum)
+
+**Highlights:**  
+- Designing branded one-pager and multi-page site to promote a three-day conference.
 
 **Project 2:** DreamMega Social Network Platform  
 **Role:** Product Owner  
-• Leading coordination with offshore developers (India).  
-• Designing UI in Figma for Mentor, Tenant, and Institution roles.  
-• Managing Azure DevOps boards—Epics, Features, User Stories, Bugs—for alignment and delivery.
+**Tech Stack:**  
+- **Tools & Platforms:** Azure DevOps, Figma   
+- **Development Approach:** SDLC, Agile (Scrum)
+
+**Highlights:**  
+- Leading coordination with offshore developers (India).
+- Designing UI in Figma for Mentor, Dreamer, and Institution roles.
+- Managing Azure DevOps boards—Epics, Features, User Stories, Bugs—for alignment and delivery.
 
 
 ## ✅ Past Clients
@@ -135,15 +149,16 @@ Built a dashboard to track and analyze voicemail activity across departments.
 ### **Xavier University of Louisiana (College of Pharmacy)**  
 **Project: 1** Prostate Cancer Training Website  
 **Role:** Angular Developer  
-**Website:** [🔗 View](http://prostatecancertraining.com/home)
+**Website:** [🔗 View](http://prostatecancertraining.com/home)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 15, TypeScript, JavaScript, HTML, CSS5, Bootstrap 4  
 - **Tools & Platforms:** Azure DevOps, Visual Studio Code, Git, GitKraken, WireframeSketcher  
-- **Development Approach:** SDLC, Agile (Scrum)  
+- **Development Approach:** SDLC, Agile (Scrum)
+    
 **Highlights:**  
-• Built SPA that turned PowerPoint content into an interactive educational site.  
-• Educated users on prostate health and cancer risks with cross-device support.
+- Built SPA that turned PowerPoint content into an interactive educational site.
+- Educated users on prostate health and cancer risks with cross-device support.
 
 
 **Project 2:** Best Practice Cultural Competence  
@@ -154,12 +169,13 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - **Database & Backend:** MySQL, PhpMyAdmin, PDO  
 - **Tools & Platforms:** NetBeans, cPanel, GoDaddy, FileZilla Client, Wireframe Design  
 - **Architecture:** Monolithic  
-- **Development Approach:** SDLC, Agile (Scrum)  
+- **Development Approach:** SDLC, Agile (Scrum)
+
 **Highlights:**  
-• Developed custom peer-review CMS for 8 remote researchers.  
-• Automated assignment, reviews, and rating logic over a 40-table SQL database.
+- Developed custom peer-review CMS for 8 remote researchers.
+- Automated assignment, reviews, and rating logic over a 40-table SQL database.
 
-
+<br>
 > **Note:** Some client websites may be offline due to business changes.  
 > Code samples and deep dives available on request.
 
