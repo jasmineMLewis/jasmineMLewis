@@ -6,9 +6,13 @@ Building Enterprise Software through a Seamless Fusion of Creativity with Engine
 
 ## 🎯 Purpose
 
-**Vision:** For every individual to reach—and exceed—their full potential.  
-**Mission:** To leverage systems and processes to develop products and services that drive equity and equality.
+### **ViSSION**  
+**Empowerment. Growth. Transformation.**  
+For every individual to reach—and exceed—their full potential.
 
+### **MiSSION**  
+**Build. Bridge. Belong.**  
+To leverage systems and processes to develop products and services that drive **equity** and **equality**.
 ## 🧠 Bio
 
 <p>Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity with technical expertise to deliver scalable, human-centered enterprise applications. With a strong foundation in both front-end and back-end development, Jasmine specializes in: </p>
@@ -90,7 +94,7 @@ Beyond technology, Jasmine is deeply committed to community service. She serves 
 - **Xavier University of Louisiana (College of Pharmacy)**  
   **Project:** Prostate Cancer Training Website  
   **Role:** Angular Developer  
-  **Website:** [🔗 View the website](http://prostatecancertraining.com/home)  
+  **Website:** [🔗 View the website](prostatecancertraining.com/home)  
   **Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
   • Developed an Angular 15 single-page application (SPA) that transformed static PowerPoint content into an interactive educational site.  
   • Educated users on prostate health, cancer risks, and screening options while ensuring cross-device accessibility and clarity.
