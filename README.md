@@ -3,7 +3,7 @@
 **Techartistry Software Engineer | Founder @ IglooNation Tech | Purpose-Driven Technologist**  
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
----
+
 
 # 🎯 Purpose
 
@@ -15,7 +15,7 @@ For every individual to reach—and exceed—their full potential.
 **Build. Bridge. Belong.**  
 To leverage systems and processes to develop products and services that drive **equity** and **equality**.
 
----
+
 
 # 🧠 Bio
 
@@ -41,7 +41,7 @@ As founder of **IglooNation Tech**, Jasmine bridges engineering with entrepreneu
 **Leadership & Service:**  
 Jasmine serves on the board of **People Housing+** and is a former committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
 
----
+
 
 # 🏆 Technical Accomplishments
 
@@ -53,7 +53,7 @@ Streamlined user flow from 7 steps to 2 for 17,000+ voucher holders and 1,500+ p
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (13-table DB)
 
----
+
 
 ### **FAA NPIAS Data Warehouse Migration**  
 Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
@@ -62,7 +62,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 - **Architecture:** N-Tier  
 - **Database:** SQL Server (50+ table DB)
 
----
+
 
 ### **Quality Control Monitor (CMS)**  
 Audited 23,000+ housing docs; reduced page loads from 5 minutes to 1; simplified UI and improved reporting.  
@@ -73,7 +73,7 @@ Audited 23,000+ housing docs; reduced page loads from 5 minutes to 1; simplified
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (18-table DB)
 
----
+
 
 ### **Choice Neighborhood Initiative Scholarship App**  
 Digitized scholarship workflow, enabling $2,000+ in funds for 40+ applicants since 2018.  
@@ -83,7 +83,7 @@ Digitized scholarship workflow, enabling $2,000+ in funds for 40+ applicants sin
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (3-table DB)
 
----
+
 
 ### **File Tracker App**  
 Automated 4-stage file process for 150+ staff; managed user access, archives, and file requests.  
@@ -93,7 +93,7 @@ Automated 4-stage file process for 150+ staff; managed user access, archives, an
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (9-table DB)
 
----
+
 
 ### **Cisco Phone Voicemail Dashboard**  
 Built a dashboard to track and analyze voicemail activity across departments.  
@@ -103,7 +103,7 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (1-table DB)
 
----
+
 
 # 🧾 Client Projects
 
@@ -114,7 +114,7 @@ Built a dashboard to track and analyze voicemail activity across departments.
 **Website:** [🔗 View](https://nexttoeat.com/)  
 • Designing a multi-page website for Executive Chef Gary Netter’s brand: Wholistic Culinary Market & Partners.
 
----
+
 
 ### **DreamMega**  
 **Project 1:** DreamMega Conference Website  
@@ -128,14 +128,14 @@ Built a dashboard to track and analyze voicemail activity across departments.
 • Designing UI in Figma for Mentor, Tenant, and Institution roles.  
 • Managing Azure DevOps boards—Epics, Features, User Stories, Bugs—for alignment and delivery.
 
----
 
 ## ✅ Past Clients
 
 ### **Xavier University of Louisiana (College of Pharmacy)**  
-**Project:** Prostate Cancer Training Website  
+**Project: 1** Prostate Cancer Training Website  
 **Role:** Angular Developer  
-**Website:** [🔗 View](http://prostatecancertraining.com/home) | **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
+**Website:** [🔗 View](http://prostatecancertraining.com/home)
+**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 15, TypeScript, JavaScript, HTML, CSS5, Bootstrap 4  
 - **Tools & Platforms:** Azure DevOps, Visual Studio Code, Git, GitKraken, WireframeSketcher  
@@ -144,9 +144,8 @@ Built a dashboard to track and analyze voicemail activity across departments.
 • Built SPA that turned PowerPoint content into an interactive educational site.  
 • Educated users on prostate health and cancer risks with cross-device support.
 
----
 
-### **Best Practice Cultural Competence**  
+**Project 2:** Best Practice Cultural Competence  
 **Role:** PHP Full Stack Developer  
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Best-Practice-Cultural-Competence)  
 **Tech Stack:**  
@@ -159,19 +158,18 @@ Built a dashboard to track and analyze voicemail activity across departments.
 • Developed custom peer-review CMS for 8 remote researchers.  
 • Automated assignment, reviews, and rating logic over a 40-table SQL database.
 
----
 
 > **Note:** Some client websites may be offline due to business changes.  
 > Code samples and deep dives available on request.
 
----
+
 
 # 🤝 Community Impact
 
 - Oversaw $50K+ in nonprofit grant funding for **Junior League of New Orleans**  
 - Board Member at **People Housing+**, advocating for equitable housing access
 
----
+
 
 # 🛠️ Tech Stack Summary
 
@@ -180,14 +178,14 @@ Built a dashboard to track and analyze voicemail activity across departments.
 **Tools:** SQL Server, MySQL, Bootstrap, Git, GitHub, Visual Studio, Azure DevOps  
 **Focus Areas:** Full-Stack Dev, UI/UX, Database Design, API Development
 
----
+
 
 # 🧪 Currently Exploring
 
 - Studying for **Scrum Fundamentals Certification** (ScrumSTUDY)  
 - Learning Angular fundamentals via **Udemy**
 
----
+
 
 # 🌐 Find Me Online
 
@@ -197,6 +195,6 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - 💡 Dev Community: [dev.to/jasminemlewis](https://dev.to/jasminemlewis)  
 - 📧 Email: [jasmine.lewis@artistikrebellion.us](mailto:jasmine.lewis@artistikrebellion.us)
 
----
+
 
 🌱 Open to full-time, contract, and collaborative opportunities.
