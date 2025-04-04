@@ -55,7 +55,6 @@ Streamlined user flow from 7 steps to 2 for 17,000+ voucher holders and 1,500+ p
 - **Database:** SQL Server (13-table DB)
 
 
-
 ### **FAA NPIAS Data Warehouse Migration**  
 Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
 **Tech Stack:**  
