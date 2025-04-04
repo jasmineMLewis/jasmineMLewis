@@ -48,7 +48,7 @@ Jasmine serves on the board of **People Housing+** and is a former committee lea
 ### **Housing Choice Connect**  
 Streamlined user flow from 7 steps to 2 for 17,000+ voucher holders and 1,500+ properties. Built admin dashboards and refined UX/UI.  
 **App:** [🔗 View](https://legacy.hano.org/HousingChoiceConnect/)  
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Housing-Choice-Connect)
+**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Housing-Choice-Connect) 
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 3  
 - **Architecture:** Monolithic  
