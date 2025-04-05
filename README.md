@@ -23,8 +23,8 @@ Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity
 
 **Core Skills:**  
 - VB.NET, C# .NET, ASP.NET (Core, MVC, Web Forms)  
-- Angular, PHP, RESTful APIs  
-- Scalable, robust database design
+- Angular, PHP, SQL, RESTful APIs  
+- Scalable robust database design and development
 
 **Impactful Contributions:**  
 She has successfully delivered solutions for:  
