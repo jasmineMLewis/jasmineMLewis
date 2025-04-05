@@ -147,7 +147,7 @@ Built a dashboard to track and analyze voicemail activity across departments.
 ## ✅ Past Clients
 
 ### **Xavier University of Louisiana (College of Pharmacy)**  
-**Project: 1** Prostate Cancer Training Website  
+**Project 1:** Prostate Cancer Training Website  
 **Role:** Angular Developer  
 **Website:** [🔗 View](http://prostatecancertraining.com/home)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
@@ -175,7 +175,7 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - Developed custom peer-review CMS for 8 remote researchers.
 - Automated assignment, reviews, and rating logic over a 40-table SQL database.
 
-<br>
+
 > **Note:** Some client websites may be offline due to business changes.  
 > Code samples and deep dives available on request.
 
@@ -183,9 +183,36 @@ Built a dashboard to track and analyze voicemail activity across departments.
 
 # 🤝 Community Impact
 
-- Oversaw $50K+ in nonprofit grant funding for **Junior League of New Orleans**  
-- Board Member at **People Housing+**, advocating for equitable housing access
+### **Junior League of New Orleans**  
+**Committee 1:** Community Assistance Fund (CAF)  
+**Roles:** Vice Chair / Co-Chair  
+**Highlights:**  
+- Oversaw the distribution of $50K+ in nonprofit grant funding, helping New Orleans-based organizations grow their capacity and extend their community impact.  
+- Selected to lead the Community Assistance Fund Committee, entrusted with overseeing nonprofit grant funding and representing one of 1,800+ volunteers.  
+- Developed an evaluation rubric to assess nonprofit applications across five key business segments, providing clear, detailed scoring criteria to support consistent, objective decision-making.  
+- Served as a featured interviewee representing the Community Assistance Fund (CAF) Committee in recognition of leadership and impact.  
+- Led and facilitated committee meetings for a 7-member team, outlining the voting process and guiding discussions on applicant selection.  
+- Created and managed online voting polls to schedule meetings and finalize funding decisions, streamlining collaboration and increasing engagement.  
+- Coordinated the distribution of applications, balancing workloads based on applicant volume to ensure thorough and timely evaluations.  
+- Volunteered 200+ hours as Committee Chair, dedicating time to supporting local nonprofits through funding opportunities.
 
+
+**Committee 2:** Scholarship Opportunity Committee  
+**Role:** Committee Chair  
+**Highlights:**  
+- Appointed to chair the Scholarship Opportunity Committee, recognized for leadership and commitment among 1,800+ volunteers.  
+- Designed and implemented a standardized applicant evaluation rubric for JLNO, establishing a fair, consistent, and repeatable scholarship selection process used in annual cycles.  
+- Led and facilitated committee meetings for a 7-member team, outlining the voting process and guiding discussions on applicant selection.  
+- Summarized scholarship recipients’ biographies to present to league members and illustrate to the Board of Directors the qualifications and selection rationale for each awardee.  
+- Coordinated the distribution of applications, balancing workloads based on applicant volume to ensure thorough and timely evaluations.  
+- Volunteered 100+ hours as Committee Chair, dedicating time to supporting local nonprofits through funding opportunities.
+
+
+### **People Housing+**  
+**Role:** Board Member  
+**Highlights:**  
+- Championed affordable housing access by serving on the board of a nonprofit that developed and sold newly built homes to lower-income families.  
+- Supported initiatives to increase visibility and fundraising efforts, including volunteering with the organization’s *Boiling to Build* events.
 
 
 # 🛠️ Tech Stack Summary
@@ -194,7 +221,6 @@ Built a dashboard to track and analyze voicemail activity across departments.
 **Frameworks:** ASP.NET (Core, MVC, Web Forms), Angular  
 **Tools:** SQL Server, MySQL, Bootstrap, Git, GitHub, Visual Studio, Azure DevOps  
 **Focus Areas:** Full-Stack Dev, UI/UX, Database Design, API Development
-
 
 
 # 🧪 Currently Exploring
