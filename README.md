@@ -191,9 +191,6 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - Selected to lead the Community Assistance Fund Committee, entrusted with overseeing nonprofit grant funding and representing one of 1,800+ volunteers.  
 - Developed an evaluation rubric to assess nonprofit applications across five key business segments, providing clear, detailed scoring criteria to support consistent, objective decision-making.  
 - Served as a featured interviewee representing the Community Assistance Fund (CAF) Committee in recognition of leadership and impact.  
-- Led and facilitated committee meetings for a 7-member team, outlining the voting process and guiding discussions on applicant selection.  
-- Created and managed online voting polls to schedule meetings and finalize funding decisions, streamlining collaboration and increasing engagement.  
-- Coordinated the distribution of applications, balancing workloads based on applicant volume to ensure thorough and timely evaluations.  
 - Volunteered 200+ hours as Committee Chair, dedicating time to supporting local nonprofits through funding opportunities.
 
 
@@ -202,10 +199,8 @@ Built a dashboard to track and analyze voicemail activity across departments.
 **Highlights:**  
 - Appointed to chair the Scholarship Opportunity Committee, recognized for leadership and commitment among 1,800+ volunteers.  
 - Designed and implemented a standardized applicant evaluation rubric for JLNO, establishing a fair, consistent, and repeatable scholarship selection process used in annual cycles.  
-- Led and facilitated committee meetings for a 7-member team, outlining the voting process and guiding discussions on applicant selection.  
 - Summarized scholarship recipients’ biographies to present to league members and illustrate to the Board of Directors the qualifications and selection rationale for each awardee.  
-- Coordinated the distribution of applications, balancing workloads based on applicant volume to ensure thorough and timely evaluations.  
-- Volunteered 100+ hours as Committee Chair, dedicating time to supporting local nonprofits through funding opportunities.
+
 
 
 ### **People Housing+**  
