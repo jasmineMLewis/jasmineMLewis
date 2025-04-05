@@ -9,7 +9,7 @@ Building enterprise software through a seamless fusion of creativity with engine
 
 ## **ViSSION**  
 **Empowerment. Growth. Transformation.**  
-For every individual to reach—and exceed—their full potential.
+For every human to reach—and exceed—their full potential.
 
 ## **MiSSION**  
 **Build. Bridge. Belong.**  
