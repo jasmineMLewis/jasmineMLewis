@@ -9,11 +9,11 @@ Building enterprise software through a seamless fusion of creativity with engine
 
 ## **ViSSION**  
 **Empowerment. Growth. Transformation.**  
-For every human to reach—and exceed—their full potential.
+Empowering every human to reach—and exceed—their full potential.
 
 ## **MiSSION**  
 **Build. Bridge. Belong.**  
-To leverage systems and processes to develop products and services that drive **equity** and **equality**.
+To harness systems thinking and innovation to build products and services that promote **equity** and **equality** for all.
 
 
 
