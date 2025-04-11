@@ -225,7 +225,7 @@ Built a dashboard to track and analyze voicemail activity across departments.
 
 
 
-# 🌐 Find Me Online
+# 🌐 Let's Connect
 
 - 🌐 Portfolio: [jasminelewis.tech](https://jasminelewis.tech/)  
 - 💼 LinkedIn: [linkedin.com/in/jasmine-m-lewis](https://www.linkedin.com/in/jasmine-m-lewis/)  
