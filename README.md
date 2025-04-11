@@ -13,7 +13,7 @@ Empowering every human to reach—and exceed—their full potential.
 
 ## **MiSSION**  
 **Build. Bridge. Belong.**  
-To harness systems thinking and innovation to build products and services that promote **equity** and **equality** for all.
+To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
 
 
 
