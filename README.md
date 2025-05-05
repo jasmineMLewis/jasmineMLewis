@@ -201,14 +201,11 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - Designed and implemented a standardized applicant evaluation rubric for JLNO, establishing a fair, consistent, and repeatable scholarship selection process used in annual cycles.  
 - Summarized scholarship recipients’ biographies to present to league members and illustrate to the Board of Directors the qualifications and selection rationale for each awardee.  
 
-
-
 ### **People Housing+**  
 **Role:** Board Member  
 **Highlights:**  
 - Championed affordable housing access by serving on the board of a nonprofit that developed and sold newly built homes to lower-income families.  
 - Supported initiatives to increase visibility and fundraising efforts, including volunteering with the organization’s *Boiling to Build* events.
-
 
 # 🛠️ Tech Stack Summary
 
@@ -224,14 +221,13 @@ Built a dashboard to track and analyze voicemail activity across departments.
 - Learning Angular fundamentals via **Udemy**
 
 
-
 # 📬 Let's Connect
 
 - 🌐 Portfolio: [jasminelewis.tech](https://jasminelewis.tech/)  
 - 💼 LinkedIn: [linkedin.com/in/jasmine-m-lewis](https://www.linkedin.com/in/jasmine-m-lewis/)  
 - ✍🏽 Medium: [medium.com@JasmineMLewis](https://medium.com/@JasmineMLewis)  
 - 💡 Dev Community: [dev.to/jasminemlewis](https://dev.to/jasminemlewis)  
-- 📧 Email: [jasmine.lewis@artistikrebellion.us](mailto:jasmine.lewis@artistikrebellion.us)
+- 📧 Email: [jasmine.lewis@igloonationtech.com](mailto:jasmine.lewis@igloonationtech.com)
 
 
 
