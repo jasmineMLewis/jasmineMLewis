@@ -64,7 +64,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 
 
 ### **Quality Control Monitor (CMS)**  
-Audited 23,000+ housing docs; reduced page loads from 5 minutes to 1; simplified UI and improved reporting.  
+• Quality Control Monitor – Led the redesign of an outdated auditing system into a scalable VB.NET CMS using Master and Nested Pages with Bootstrap 3. Reduced report load time from 5 to 1 minute and streamlined 4 complex reports down to 3. Built dynamic error review tools, role-based access, and normalized SQL for greater accuracy and performance.
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
