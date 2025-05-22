@@ -1,17 +1,18 @@
 # 👩🏽‍💻 Personal Branding Statement
 
-**Techartistry Software Engineer | Founder @ IglooNation Tech | Purpose-Driven Technologist**  
+**
+Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech **
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
 
 
 # 🎯 Purpose
 
-## **ViSSION**  
+## **Vision**  
 **Empowerment. Growth. Transformation.**  
 Empowering every human to reach—and exceed—their full potential.
 
-## **MiSSION**  
+## **Mission**  
 **Build. Bridge. Belong.**  
 To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
 
@@ -19,27 +20,32 @@ To harness systems thinking and innovation to build products and services that e
 
 # 🧠 Bio
 
-Jasmine M. Lewis is a solutions-oriented software engineer, combining creativity with technical expertise to deliver scalable, human-centered enterprise applications.
+Jasmine M. Lewis is a solutions-oriented software engineer who combines creativity, systems thinking, and technical expertise to deliver scalable, human-centered enterprise applications.
+
+She has led platform-level initiatives that support complex, multi-user systems with role-based access, scalable data architecture, and enterprise-grade functionality.
 
 **Core Skills:**  
-- VB.NET, C# .NET, ASP.NET (Core, MVC, Web Forms)  
-- Angular, PHP, SQL, RESTful APIs  
-- Scalable robust database design and development
+Design  
+- C#, VB.NET, ASP.NET (Core, MVC, Web Forms)
+- Angular, PHP, SQL, Scalable Database Design  
+- Product Ownership, Agile Methodologies, User Story Mapping
+- UI/UX Design, Figma, WireframeSketcher
 
-**Impactful Contributions:**  
+**Contributions:**  
 She has successfully delivered solutions for:  
-- Housing Authority of New Orleans  
-- Civix, Inc.  
+- Xavier University of Louisiana
+- Housing Authority of New Orleans
+- Civix
 - Blue Streak Technologies
 
-As founder of **IglooNation Tech**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.
+As of **IglooNation Tech**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.
 
 **Education:**  
 - Cum Laude graduate, Xavier University of Louisiana (2015)  
 - Ruby on Rails Bootcamp Alum, Tech Talent & Strategy (2019)
 
 **Leadership & Service:**  
-Jasmine serves on the board of **People Housing+** and is a former committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
+Jasmine serves on the board of **People Housing+** and is a committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
 
 
 
@@ -64,7 +70,8 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 
 
 ### **Quality Control Monitor (CMS)**  
-• Quality Control Monitor – Redesigned an outdated auditing system into a scalable CMS to support document review and reporting. Improved performance, streamlined complex reports, and added role-based workflows for housing specialists and auditors.
+• Quality Control Monitor – Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
+
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
