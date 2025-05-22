@@ -210,14 +210,7 @@ Developed a custom PHP6-based peer-review CMS for an 8-member research team eval
 - **Development Approach:** SDLC, Agile (Scrum)
 
 
-
-> **Note:** Some client websites may be offline due to business changes.  
-> Code samples and deep dives available on request.
-
-
-
 # 🤝 Community Impact
-
 
 ### Junior League of New Orleans  
 **Roles:** Committee Chair, Vice Chair  
@@ -233,10 +226,27 @@ Support strategic direction and fundraising for a nonprofit that expands access 
 
 # 🛠️ Tech Stack Summary
 
-**Languages:** C#, VB.NET, TypeScript, PHP, SQL  
-**Frameworks:** ASP.NET (Core, MVC, Web Forms), Angular  
-**Tools:** SQL Server, MySQL, Bootstrap, Git, GitHub, Visual Studio, Azure DevOps  
-**Focus Areas:** Full-Stack Dev, UI/UX, Database Design, API Development
+### Languages & Frameworks  
+- C#, VB.NET, TypeScript, PHP, SQL  
+- ASP.NET (Core, MVC, Web Forms), Angular  
+
+### Databases  
+- SQL Server, MySQL  
+- PhpMyAdmin, PDO  
+
+### Design Tools  
+- Figma, WireframeSketcher, Bootstrap  
+
+### Version Control & DevOps  
+- Git, GitHub, Azure DevOps, FileZilla  
+
+### IDEs & Code Editors  
+- Visual Studio, Visual Studio Code, NetBeans  
+
+### Focus Areas  
+- Full-Stack Development, UI/UX Design, Database Architecture  
+- API Development, Agile Methodologies, Product Ownership  
+- User Story Mapping, Modular & Component-Based Development
 
 
 # 🧪 Currently Exploring
