@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Personal Branding Statement
 
-**Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech**
+**Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech** <br/>
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
 
@@ -67,7 +67,7 @@ Jasmine serves on the board of **People Housing+** and is a committee leader wit
 
 # 🏆 Technical Accomplishments
 
-### **Puerto Rico Disaster Data Management Services**  
+### Puerto Rico Disaster Data Management Services  
 **Job:** Blue Streak Technologies  
 **Role:** Software Engineer II  
 Developed and enhanced a C#.NET web application for the Central Office for Recovery, Reconstruction, and Resiliency (COR3) to track, record, and manage disaster-related funds and processes across Puerto Rico. Improved administrator control for 200+ employees by redesigning the access module using MVC, Kendo UI, and N-Tier architecture.
@@ -79,7 +79,7 @@ Developed and enhanced a C#.NET web application for the Central Office for Recov
 - **Database:** SQL Server (50+ table DB)
 
 
-### **FAA NPIAS Data Warehouse Migration**  
+### FAA NPIAS Data Warehouse Migration  
 **Job:** Civix  
 **Role:** Full Stack Intermediate Developer  
 Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
@@ -90,7 +90,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 - **Database:** SQL Server (50+ table DB)
 
 
-### **Housing Choice Connect**  
+### Housing Choice Connect  
 **Job:** Housing Authority of New Orleans (HANO)  
 **Role:** Junior Programmer  
 Designed and developed a VB.NET web application to modernize the voucher registration process for 17,000+ Section 8 participants and 1,500+ properties. Reduced registration flow from 7 steps to 2, improved overall UX, and built an administrative dashboard to support housing staff. Managed the full SDLC from requirements gathering to deployment and user support.  
@@ -103,7 +103,7 @@ Designed and developed a VB.NET web application to modernize the voucher registr
 - **Database:** SQL Server (13-table DB)
 
 
-### **Quality Control Monitor (CMS)**  
+### Quality Control Monitor (CMS)  
 **Job:** Housing Authority of New Orleans (HANO)  
 **Role:** Junior Programmer  
 Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
@@ -116,7 +116,7 @@ Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit 
 - **Database:** SQL Server (18-table DB)
 
 
-### **Choice Neighborhood Initiative Scholarship App**  
+### Choice Neighborhood Initiative Scholarship App  
 **Job:** Housing Authority of New Orleans (HANO)  
 **Role:** Junior Programmer  
 Designed and developed HANO’s first scholarship web application using VB.NET and Bootstrap. Delivered a streamlined one-page form and admin portal for submission review, digitizing the award process and enabling $2,000+ grants for 40+ applicants since 2018. 
@@ -129,7 +129,7 @@ Designed and developed HANO’s first scholarship web application using VB.NET a
 - **Database:** SQL Server (3-table DB)
 
 
-### **File Tracker**  
+### File Tracker  
 **Job:** Housing Authority of New Orleans (HANO)  
 **Role:** Junior Programmer  
 Automated 4-stage file process for 150+ staff; managed user access, archives, and file requests.  
@@ -145,71 +145,70 @@ Automated 4-stage file process for 150+ staff; managed user access, archives, an
 
 ## 🔄 Current Clients
 
-### **Next To Eat**  
+### Wholistic Culinary Market Website  
+**Client:** Next To Eat  
 **Role:** Website Designer  
+Designed and developed a multi-page SquareSpace website for Executive Chef Gary Netter’s Wholistic™ Culinary Market, focused on showcasing vendor partnerships, curated menus, and market events.
+
 **Website:** [🔗 View](https://nexttoeat.com/)  
 **Tech Stack:**  
-- **Tools & Platforms:** Azure DevOps, SquareSpace   
+- **Tools & Platforms:** SquareSpace, Canva, Azure DevOps  
 - **Development Approach:** SDLC, Agile (Scrum)
 
-**Highlights:**  
-- Designing a multi-page website for Executive Chef Gary Netter’s brand: Wholistic Culinary Market & Partners.
 
 
-
-### **DreamMega**  
-**Project 1:** DreamMega Conference Website  
+### DreamMega Conference Website  
+**Client:** DreamMega  
 **Role:** Website Designer  
+Designed and maintain a responsive one-page WordPress site for a multi-day business and technology conference. The site showcases event speakers, schedule, and community initiatives. Also created marketing one-pagers in Canva to support sponsorship outreach and brand visibility.
+
 **Website:** [🔗 View](https://dreammegaconference.com/)  
 **Tech Stack:**  
-- **Tools & Platforms:** Azure DevOps, Figma, WordPress   
+- **Tools & Platforms:** WordPress, Figma, Canva, Azure DevOps  
 - **Development Approach:** SDLC, Agile (Scrum)
 
-**Highlights:**  
-- Designing branded one-pager and multi-page site to promote a three-day conference.
 
-**Project 2:** DreamMega Social Network Platform  
+### DreamMega Social Network Platform  
+**Client:** DreamMega  
 **Role:** Product Owner  
+Lead coordination with offshore developers to support the design and delivery of a social networking platform that connects users with mentors and inspirational leaders in their communities. Define user stories, translate stakeholder input into actionable features, and manage Azure DevOps boards to track Epics, Features, User Stories, and Bugs. Design UI in Figma for Mentor, Dreamer, and Institution roles.
+
 **Tech Stack:**  
-- **Tools & Platforms:** Azure DevOps, Figma   
+- **Tools & Platforms:** Azure DevOps, Figma  
 - **Development Approach:** SDLC, Agile (Scrum)
 
-**Highlights:**  
-- Leading coordination with offshore developers (India).
-- Designing UI in Figma for Mentor, Dreamer, and Institution roles.
-- Managing Azure DevOps boards—Epics, Features, User Stories, Bugs—for alignment and delivery.
 
 
 ## ✅ Past Clients
 
-### **Xavier University of Louisiana (College of Pharmacy)**  
-**Project 1:** Prostate Cancer Training Website  
+
+### Prostate Cancer Training Website  
+**Client:** Xavier University of Louisiana (College of Pharmacy)  
 **Role:** Angular Developer  
+Developed an Angular 15 single-page application (SPA) to educate users on prostate health, cancer risks, and available screening options. Transformed static PowerPoint content into a dynamic, multimedia learning experience across 5 interactive modules. Built 115 reusable components using modular architecture, TypeScript, and Bootstrap 4, and deployed the platform via FileZilla on GoDaddy.
+
 **Website:** [🔗 View](http://prostatecancertraining.com/home)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 15, TypeScript, JavaScript, HTML, CSS5, Bootstrap 4  
-- **Tools & Platforms:** Azure DevOps, Visual Studio Code, Git, GitKraken, WireframeSketcher  
+- **Tools & Platforms:** Azure DevOps, Visual Studio Code, Git, GitKraken, WireframeSketcher, FileZilla, GoDaddy  
 - **Development Approach:** SDLC, Agile (Scrum)
-    
-**Highlights:**  
-- Built SPA that turned PowerPoint content into an interactive educational site.
-- Educated users on prostate health and cancer risks with cross-device support.
 
 
-**Project 2:** Best Practice Cultural Competence  
+
+### Best Practice Cultural Competence CMS  
+**Client:** Xavier University of Louisiana (College of Pharmacy)  
 **Role:** PHP Full Stack Developer  
+Developed a custom PHP6-based peer-review CMS for an 8-member research team evaluating healthcare teaching practices. Built 21 dynamic forms, automated 4-stage reviewer workflows, and implemented OOP components with Excel exports. Structured a 40-table relational MySQL database to manage assignments, review logic, and administrator controls. Deployed using cPanel and FileZilla on GoDaddy.
+
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Best-Practice-Cultural-Competence)  
 **Tech Stack:**  
 - **Languages & Frameworks:** PHP6, JavaScript, HTML5, CSS3, SQL  
 - **Database & Backend:** MySQL, PhpMyAdmin, PDO  
-- **Tools & Platforms:** NetBeans, cPanel, GoDaddy, FileZilla Client, Wireframe Design  
+- **Tools & Platforms:** NetBeans, cPanel, GoDaddy, FileZilla Client, WireframeSketcher  
 - **Architecture:** Monolithic  
 - **Development Approach:** SDLC, Agile (Scrum)
 
-**Highlights:**  
-- Developed custom peer-review CMS for 8 remote researchers.
-- Automated assignment, reviews, and rating logic over a 40-table SQL database.
 
 
 > **Note:** Some client websites may be offline due to business changes.  
@@ -219,29 +218,18 @@ Automated 4-stage file process for 150+ staff; managed user access, archives, an
 
 # 🤝 Community Impact
 
-### **Junior League of New Orleans**  
-**Committee 1:** Community Assistance Fund (CAF)  
-**Roles:** Vice Chair / Co-Chair  
-**Highlights:**  
-- Oversaw the distribution of $50K+ in nonprofit grant funding, helping New Orleans-based organizations grow their capacity and extend their community impact.  
-- Selected to lead the Community Assistance Fund Committee, entrusted with overseeing nonprofit grant funding and representing one of 1,800+ volunteers.  
-- Developed an evaluation rubric to assess nonprofit applications across five key business segments, providing clear, detailed scoring criteria to support consistent, objective decision-making.  
-- Served as a featured interviewee representing the Community Assistance Fund (CAF) Committee in recognition of leadership and impact.  
-- Volunteered 200+ hours as Committee Chair, dedicating time to supporting local nonprofits through funding opportunities.
 
+### Junior League of New Orleans  
+**Roles:** Committee Chair, Vice Chair  
+Led major community funding and scholarship initiatives within a 1,800+ member volunteer organization.  
+- Oversaw the distribution of $50K+ in nonprofit grants through the Community Assistance Fund.  
+- Chaired the Scholarship Opportunity Committee, creating a standardized rubric to guide award selection.  
+- Volunteered 200+ hours supporting New Orleans nonprofits through evaluation and funding processes.
 
-**Committee 2:** Scholarship Opportunity Committee  
-**Role:** Committee Chair  
-**Highlights:**  
-- Appointed to chair the Scholarship Opportunity Committee, recognized for leadership and commitment among 1,800+ volunteers.  
-- Designed and implemented a standardized applicant evaluation rubric for JLNO, establishing a fair, consistent, and repeatable scholarship selection process used in annual cycles.  
-- Summarized scholarship recipients’ biographies to present to league members and illustrate to the Board of Directors the qualifications and selection rationale for each awardee.  
-
-### **People Housing+**  
+### People Housing+  
 **Role:** Board Member  
-**Highlights:**  
-- Championed affordable housing access by serving on the board of a nonprofit that developed and sold newly built homes to lower-income families.  
-- Supported initiatives to increase visibility and fundraising efforts, including volunteering with the organization’s *Boiling to Build* events.
+Support strategic direction and fundraising for a nonprofit that expands access to affordable housing in New Orleans.
+
 
 # 🛠️ Tech Stack Summary
 
