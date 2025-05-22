@@ -52,7 +52,7 @@ Jasmine serves on the board of **People Housing+** and is a committee leader wit
 # 🏆 Technical Accomplishments
 
 ### **Housing Choice Connect**  
-Streamlined user flow from 7 steps to 2 for 17,000+ voucher holders and 1,500+ properties. Built admin dashboards and refined UX/UI.  
+Designed and developed a VB.NET web application to modernize the voucher registration process for 17,000+ Section 8 participants and 1,500+ properties. Reduced registration flow from 7 steps to 2, improved overall UX, and built an administrative dashboard to support housing staff. Managed the full SDLC from requirements gathering to deployment and user support. 
 **App:** [🔗 View](https://legacy.hano.org/HousingChoiceConnect/)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Housing-Choice-Connect)<br>
 **Tech Stack:**  
@@ -70,7 +70,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 
 
 ### **Quality Control Monitor (CMS)**  
-• Quality Control Monitor – Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
+Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
 
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
 **Tech Stack:**  
