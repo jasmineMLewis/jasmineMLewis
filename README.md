@@ -1,7 +1,6 @@
 # 👩🏽‍💻 Personal Branding Statement
 
-**
-Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech **
+**Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech**
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
 
@@ -18,41 +17,84 @@ To harness systems thinking and innovation to build products and services that e
 
 
 
-# 🧠 Bio
+# 🪪 Bio
 
 Jasmine M. Lewis is a solutions-oriented software engineer who combines creativity, systems thinking, and technical expertise to deliver scalable, human-centered enterprise applications.
 
 She has led platform-level initiatives that support complex, multi-user systems with role-based access, scalable data architecture, and enterprise-grade functionality.
 
-**Core Skills:**  
-Design  
-- C#, VB.NET, ASP.NET (Core, MVC, Web Forms)
+
+### Skills
+- C#, VB.NET, ASP.NET (Core, MVC, Web Forms)  
 - Angular, PHP, SQL, Scalable Database Design  
-- Product Ownership, Agile Methodologies, User Story Mapping
-- UI/UX Design, Figma, WireframeSketcher
+- Product Ownership, Agile Methodologies, User Story Mapping  
+- UI/UX Design, Figma, WireframeSketcher  
 
-**Contributions:**  
-She has successfully delivered solutions for:  
-- Xavier University of Louisiana
-- Housing Authority of New Orleans
-- Civix
-- Blue Streak Technologies
 
-As of **IglooNation Tech**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.
+### Contributions
+She has successfully delivered impactful software solutions for:
 
-**Education:**  
+- **Xavier University of Louisiana** – Developed an Angular (TypeScript) single-page application with 115+ reusable components for prostate cancer health education, and built a full-stack PHP (with MySQL) peer-review CMS for evaluating healthcare teaching practices  
+
+- **Housing Authority of New Orleans** – Delivered multiple VB.NET (ASP.NET Web Forms) systems for document audits, scholarship applications, and voucher registration across public housing programs  
+
+- **Civix** – Contributed to FAA airport data infrastructure migration, transforming legacy MS Access systems into scalable Angular and C# .NET web applications  
+
+- **Blue Streak Technologies** – Developed C# .NET tools to track and manage disaster recovery efforts across Puerto Rico, supporting long-term post-hurricane funding and reporting  
+
+
+As the founder of **IglooNation Tech**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.  
+
+
+### Education
+
+**Tech**  
 - Cum Laude graduate, Xavier University of Louisiana (2015)  
-- Ruby on Rails Bootcamp Alum, Tech Talent & Strategy (2019)
+- Ruby on Rails Bootcamp Alum, Tech Talent & Strategy (2019)  
 
-**Leadership & Service:**  
+**Business**  
+- IDEAinstitute Fellowship, The Idea Village (Spring 2025 Cohort)  
+
+**Community**  
+- Urban Leaders Equity & Diversity (ULEAD) Leadership Academy, Urban League of Louisiana (2019 Winter Cohort)  
+- LEAD Together Community Training Program, Foundation for Louisiana (2017 Cohort)
+
+
+
+### Leadership & Service
 Jasmine serves on the board of **People Housing+** and is a committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
-
 
 
 # 🏆 Technical Accomplishments
 
+### **Puerto Rico Disaster Data Management Services**  
+**Job:** Blue Streak Technologies  
+**Role:** Software Engineer II  
+Developed and enhanced a C#.NET web application for the Central Office for Recovery, Reconstruction, and Resiliency (COR3) to track, record, and manage disaster-related funds and processes across Puerto Rico. Improved administrator control for 200+ employees by redesigning the access module using MVC, Kendo UI, and N-Tier architecture.
+
+**App:** [🔗 View](https://prdrs.cor3.pr/core)<br>
+**Tech Stack:**  
+- **Languages & Frameworks:** C# .NET, ASP.NET MVC, Entity Framework, LINQ  
+- **Architecture:** N-Tier  
+- **Database:** SQL Server (50+ table DB)
+
+
+### **FAA NPIAS Data Warehouse Migration**  
+**Job:** Civix  
+**Role:** Full Stack Intermediate Developer  
+Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
+
+**Tech Stack:**  
+- **Languages & Frameworks:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ  
+- **Architecture:** N-Tier  
+- **Database:** SQL Server (50+ table DB)
+
+
 ### **Housing Choice Connect**  
-Designed and developed a VB.NET web application to modernize the voucher registration process for 17,000+ Section 8 participants and 1,500+ properties. Reduced registration flow from 7 steps to 2, improved overall UX, and built an administrative dashboard to support housing staff. Managed the full SDLC from requirements gathering to deployment and user support. 
+**Job:** Housing Authority of New Orleans (HANO)  
+**Role:** Junior Programmer  
+Designed and developed a VB.NET web application to modernize the voucher registration process for 17,000+ Section 8 participants and 1,500+ properties. Reduced registration flow from 7 steps to 2, improved overall UX, and built an administrative dashboard to support housing staff. Managed the full SDLC from requirements gathering to deployment and user support.  
+
 **App:** [🔗 View](https://legacy.hano.org/HousingChoiceConnect/)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Housing-Choice-Connect)<br>
 **Tech Stack:**  
@@ -61,15 +103,9 @@ Designed and developed a VB.NET web application to modernize the voucher registr
 - **Database:** SQL Server (13-table DB)
 
 
-### **FAA NPIAS Data Warehouse Migration**  
-Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
-**Tech Stack:**  
-- **Languages & Frameworks:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ  
-- **Architecture:** N-Tier  
-- **Database:** SQL Server (50+ table DB)
-
-
 ### **Quality Control Monitor (CMS)**  
+**Job:** Housing Authority of New Orleans (HANO)  
+**Role:** Junior Programmer  
 Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
 
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
@@ -80,9 +116,11 @@ Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit 
 - **Database:** SQL Server (18-table DB)
 
 
-
 ### **Choice Neighborhood Initiative Scholarship App**  
-Digitized scholarship workflow, enabling $2,000+ in funds for 40+ applicants since 2018.  
+**Job:** Housing Authority of New Orleans (HANO)  
+**Role:** Junior Programmer  
+Designed and developed HANO’s first scholarship web application using VB.NET and Bootstrap. Delivered a streamlined one-page form and admin portal for submission review, digitizing the award process and enabling $2,000+ grants for 40+ applicants since 2018. 
+
 **App:** [🔗 View](https://legacy.hano.org/CNIScholarshipProgram/)<br>
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
 **Tech Stack:**  
@@ -91,25 +129,16 @@ Digitized scholarship workflow, enabling $2,000+ in funds for 40+ applicants sin
 - **Database:** SQL Server (3-table DB)
 
 
-
-### **File Tracker App**  
+### **File Tracker**  
+**Job:** Housing Authority of New Orleans (HANO)  
+**Role:** Junior Programmer  
 Automated 4-stage file process for 150+ staff; managed user access, archives, and file requests.  
+
 **Code:** [💻 GitHub](https://github.com/jasmineMLewis/File-Tracker)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (9-table DB)
-
-
-
-### **Cisco Phone Voicemail Dashboard**  
-Built a dashboard to track and analyze voicemail activity across departments.  
-**Tech Stack:**  
-- **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0  
-- **UI Design:** Themes & Skins  
-- **Architecture:** Monolithic  
-- **Database:** SQL Server (1-table DB)
-
 
 
 # 🧾 Client Projects
