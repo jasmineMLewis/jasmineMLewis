@@ -224,7 +224,7 @@ Led major community funding and scholarship initiatives within a 1,800+ member v
 Support strategic direction and fundraising for a nonprofit that expands access to affordable housing in New Orleans.
 
 
-## 🚀 Milestones
+# 🚀 Milestones
 
 - **August 13, 2025** — Reached **10,000+ followers** on LinkedIn.  
 - **December 2, 2015** — Legally incorporated **IglooNation Tech**.
