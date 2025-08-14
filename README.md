@@ -1,12 +1,10 @@
 # 👩🏽‍💻 Personal Branding Statement
 
 **Full Stack Software Engineer | Product-Minded Leader | Founder @ [IglooNation Tech](https://github.com/IglooNationTech)** 
-
 <br/>
-
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
-
+<br/>
 
 # 🎯 Purpose
 
@@ -18,7 +16,7 @@ Empowering every human to reach—and exceed—their full potential.
 **Build. Bridge. Belong.**  
 To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
 
-
+<br/>
 
 # 🪪 Bio
 
@@ -46,7 +44,7 @@ She has successfully delivered impactful software solutions for:
 - **Blue Streak Technologies** – Developed C# .NET tools to track and manage disaster recovery efforts across Puerto Rico, supporting long-term post-hurricane funding and reporting  
 
 
-As the founder of **IglooNation Tech**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.  
+As the founder of **[IglooNation Tech](https://github.com/IglooNationTech)**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.  
 
 
 ### Education
@@ -67,6 +65,7 @@ As the founder of **IglooNation Tech**, Jasmine bridges engineering with entrepr
 ### Leadership & Service
 Jasmine serves on the board of **People Housing+** and is a committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
 
+<br/>
 
 # 🏆 Technical Accomplishments
 
@@ -143,6 +142,7 @@ Automated 4-stage file process for 150+ staff; managed user access, archives, an
 - **Architecture:** Monolithic  
 - **Database:** SQL Server (9-table DB)
 
+<br/>
 
 # 🧾 Client Projects
 
@@ -212,28 +212,68 @@ Developed a custom PHP6-based peer-review CMS for an 8-member research team eval
 - **Architecture:** Monolithic  
 - **Development Approach:** SDLC, Agile (Scrum)
 
+<br/>
 
 # 🤝 Community Impact
 
 ### Junior League of New Orleans  
-**Roles:** Committee Chair, Vice Chair  
+**Roles:** Committee Chair, Co-Chair, Vice Chair,  
 Led major community funding and scholarship initiatives within a 1,800+ member volunteer organization.  
-- Oversaw the distribution of $50K+ in nonprofit grants through the Community Assistance Fund.  
-- Chaired the Scholarship Opportunity Committee, creating a standardized rubric to guide award selection.  
-- Volunteered 200+ hours supporting New Orleans nonprofits through evaluation and funding processes.
+- Oversaw the distribution of $100K+ in nonprofit grants through the Community Assistance Fund.
+- Oversaw the distribution of $10K+ in scholarship funds through the Scholarship Opportunity.
+- Co-Chaired the Community Assistance Fund Committee, creating a standardized "Organization & Program Rubric" to guide grant awardees comprised of 8 sections with a max score of 80 points.
+- Chaired the Scholarship Opportunity Committee, creating a standardized "Application Rubric" to guide award selection comprised of 8 sections with a max score of 34 points.
+- Volunteered 200+ hours supporting New Orleans nonprofits through evaluation and funding processes, events, and initiatives.
 
 ### People Housing+  
 **Role:** Board Member  
 Support strategic direction and fundraising for a nonprofit that expands access to affordable housing in New Orleans.
 
+<br/>
 
 # 🚀 Milestones
 
 - **August 13, 2025** — Reached **10,000+ followers** on LinkedIn.  
 - **December 2, 2015** — Legally incorporated **[IglooNation Tech](https://github.com/IglooNationTech)**.
 
+<br/>
 
 # 🛠️ Tech Stack Summary
+
+<div align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo" />
+  <img src="https://gist.githubusercontent.com/jasmineMLewis/e00221320c9520fab0ded219378a9012/raw/8109ca6233b95b9b11ed9c9941405f2c0aa38a84/vbnet-lettermark.svg" height="30" width="42" alt="vb.net logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dotnet logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="sql logo" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angular logo" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
+  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="30" width="42" alt="phpmyadmin logo" />
+
+
+  <!-- Design Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo" />
+  <!-- <img src="https://cdn.simpleicons.org/wireframesketcher/4B4B4B" height="30" width="42" alt="wireframesketcher logo" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
+  <!-- <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="30" width="42" alt="adobe xd logo" /> -->
+
+  <!-- Version Control & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" width="42" alt="azuredevops logo" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="30" width="42" alt="filezilla logo" />
+
+  <!-- IDEs & Code Editors -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visual studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" width="42" alt="netbeans logo (placeholder)" />
+</div>
+
 
 ### Languages & Frameworks  
 - C#, VB.NET, TypeScript, PHP, SQL  
@@ -244,13 +284,15 @@ Support strategic direction and fundraising for a nonprofit that expands access 
 - PhpMyAdmin, PDO  
 
 ### Design Tools  
-- Figma, WireframeSketcher, Bootstrap  
+- Figma, WireframeSketcher, Bootstrap, Adobe XD 
 
 ### Version Control & DevOps  
 - Git, GitHub, Azure DevOps, FileZilla  
 
 ### IDEs & Code Editors  
 - Visual Studio, Visual Studio Code, NetBeans  
+
+
 
 ### Focus Areas  
 - Full-Stack Development, UI/UX Design, Database Architecture  
@@ -266,11 +308,34 @@ Support strategic direction and fundraising for a nonprofit that expands access 
 
 # 📬 Let's Connect
 
+<p align="center">
+  <a href="mailto:jasmine.lewis@igloonationtech.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jasmine-m-lewis/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@JasmineMLewis">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://dev.to/jasminemlewis">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/>
+  </a>
+  <a href="https://github.com/jasmineMLewis">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/jasmineMLewis">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+
 - 🌐 Portfolio: [jasminelewis.tech](https://jasminelewis.tech/)  
 - 💼 LinkedIn: [linkedin.com/in/jasmine-m-lewis](https://www.linkedin.com/in/jasmine-m-lewis/)  
 - ✍🏽 Medium: [medium.com@JasmineMLewis](https://medium.com/@JasmineMLewis)  
 - 💡 Dev Community: [dev.to/jasminemlewis](https://dev.to/jasminemlewis)  
 - 📧 Email: [jasmine.lewis@igloonationtech.com](mailto:jasmine.lewis@igloonationtech.com)
+
 
 
 
