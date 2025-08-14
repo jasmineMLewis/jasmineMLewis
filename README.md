@@ -326,11 +326,15 @@ Supported the long-term sustainability of the organization by cultivating donor 
 - User Story Mapping, Modular & Component-Based Development
 
 
+<br/>
+
+
 # 🧪 Currently Exploring
 
 - Studying for **Scrum Fundamentals Certification** (ScrumSTUDY)  
 - Learning Angular fundamentals via **Udemy**
 
+<br/>
 
 # 📬 Let's Connect
 
