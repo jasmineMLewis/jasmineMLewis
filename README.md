@@ -1,6 +1,9 @@
 # 👩🏽‍💻 Personal Branding Statement
 
-**Full Stack Software Engineer | Product-Minded Leader | Founder @ IglooNation Tech** <br/>
+**Full Stack Software Engineer | Product-Minded Leader | Founder @ [IglooNation Tech](https://github.com/IglooNationTech)** 
+
+<br/>
+
 Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
 
 
@@ -227,7 +230,7 @@ Support strategic direction and fundraising for a nonprofit that expands access 
 # 🚀 Milestones
 
 - **August 13, 2025** — Reached **10,000+ followers** on LinkedIn.  
-- **December 2, 2015** — Legally incorporated **IglooNation Tech**.
+- **December 2, 2015** — Legally incorporated **[IglooNation Tech](https://github.com/IglooNationTech)**.
 
 
 # 🛠️ Tech Stack Summary
