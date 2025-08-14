@@ -216,24 +216,50 @@ Developed a custom PHP6-based peer-review CMS for an 8-member research team eval
 
 # 🤝 Community Impact
 
+## Committees
 ### Junior League of New Orleans  
-**Roles:** Committee Chair, Co-Chair, Vice Chair,  
-Led major community funding and scholarship initiatives within a 1,800+ member volunteer organization.  
-- Oversaw the distribution of $100K+ in nonprofit grants through the Community Assistance Fund.
-- Oversaw the distribution of $10K+ in scholarship funds through the Scholarship Opportunity.
-- Co-Chaired the Community Assistance Fund Committee, creating a standardized "Organization & Program Rubric" to guide grant awardees comprised of 8 sections with a max score of 80 points.
-- Chaired the Scholarship Opportunity Committee, creating a standardized "Application Rubric" to guide award selection comprised of 8 sections with a max score of 34 points.
-- Volunteered 200+ hours supporting New Orleans nonprofits through evaluation and funding processes, events, and initiatives.
 
-### People Housing+  
-**Role:** Board Member  
-Support strategic direction and fundraising for a nonprofit that expands access to affordable housing in New Orleans.
+**Committee:** JLNO Scholarship Opportunity  
+**Role:** Chair, Member  
+Helped women obtain degrees or certifications to support workforce entry or career advancement.
+
+**Accomplishments:**   
+- Oversaw the distribution of $10K+ in scholarship funds through the Scholarship Opportunity.
+- Designed and implemented a standardized 8-section Scholarship Evaluation Rubric (max 34 points) to guide consistent, data-informed award decisions.
 
 <br/>
 
-# 🚀 Milestones
+**Committee:** JLNO Community Assistance Fund  
+**Role:** Co-Chair, Vice Chair  
+Provided flexible grants to nonprofits with urgent funding needs that support the wellbeing of women.
 
-- **August 13, 2025** — Reached **10,000+ followers** on LinkedIn.  
+**Accomplishments:**   
+- Oversaw the distribution of $100K+ in nonprofit grants through the Community Assistance Fund.
+- Developed a standardized 8-section Organization & Program Rubric (80-point scale) to evaluate grant applications and ensure consistent, mission-aligned funding decisions.
+- Quoted in JLNO Lagniappe (Winter 2025) award recognition article; selected for feature following full interview submission.
+
+
+
+## Boards
+### People Housing+  
+
+**Committee:** Governance  
+**Role:** Chair  
+Provided strategic oversight to ensure the organization’s policies, board practices, and bylaws align with its mission and support effective, ethical leadership.
+
+<br/>
+
+**Committee:** Stewardship  
+**Role:** Member  
+Supported the long-term sustainability of the organization by cultivating donor relationships, enhancing fundraising strategy, and ensuring transparency in the use of philanthropic.
+
+
+
+<br/>
+
+# 🚀 Notable Milestones
+
+- **August 13, 2025** — Reached **10,000+ followers** on [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/).  
 - **December 2, 2015** — Legally incorporated **[IglooNation Tech](https://github.com/IglooNationTech)**.
 
 <br/>
