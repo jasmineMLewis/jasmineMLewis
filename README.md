@@ -26,8 +26,8 @@ She has led platform-level initiatives that support complex, multi-user systems 
 
 
 ### Skills
-- C#, VB.NET, ASP.NET (Core, MVC, Web Forms)  
-- Angular, PHP, SQL, Scalable Database Design  
+- C#, VB.NET, ASP.NET (MVC, Web Forms)  
+- Angular, TypeScript, PHP, SQL, Scalable Database Design  
 - Product Ownership, Agile Methodologies, User Story Mapping  
 - UI/UX Design, Figma, WireframeSketcher  
 
