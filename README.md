@@ -226,6 +226,7 @@ Helped women obtain degrees or certifications to support workforce entry or care
 **Accomplishments:**   
 - Oversaw the distribution of $10K+ in scholarship funds through the Scholarship Opportunity.
 - Designed and implemented a standardized 8-section Scholarship Evaluation Rubric (max 34 points) to guide consistent, data-informed award decisions.
+- Summarized scholarship recipients’ biographies to present to league members and illustrate to the Board of Directors the qualifications and selection rationale for each awardee.
 
 <br/>
 
@@ -245,13 +246,13 @@ Provided flexible grants to nonprofits with urgent funding needs that support th
 
 **Committee:** Governance  
 **Role:** Chair  
-Provided strategic oversight to ensure the organization’s policies, board practices, and bylaws align with its mission and support effective, ethical leadership.
+- Provided strategic oversight to ensure the organization’s policies, board practices, and bylaws align with its mission and support effective, ethical leadership.
 
 <br/>
 
 **Committee:** Stewardship  
 **Role:** Member  
-Supported the long-term sustainability of the organization by cultivating donor relationships, enhancing fundraising strategy, and ensuring transparency in the use of philanthropic.
+- Supported the long-term sustainability of the organization by cultivating donor relationships, enhancing fundraising strategy, and ensuring transparency in the use of philanthropic.
 
 
 
