@@ -261,7 +261,9 @@ Provided flexible grants to nonprofits with urgent funding needs that support th
 # 🚀 Notable Milestones
 
 - **August 13, 2025** — Reached **10,000+ followers** on [LinkedIn](https://www.linkedin.com/in/jasmine-m-lewis/).  
+- **May 5, 2022** — Legally incorporated **[Artistikk R3b3llionh](https://github.com/ArtistikkR3b3llion)**.
 - **December 2, 2015** — Legally incorporated **[IglooNation Tech](https://github.com/IglooNationTech)**.
+
 
 <br/>
 
