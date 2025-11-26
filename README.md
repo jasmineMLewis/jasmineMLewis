@@ -317,19 +317,29 @@ Provided flexible grants to nonprofits with urgent funding needs that support th
 - C#, VB.NET, TypeScript, PHP, SQL  
 - ASP.NET (Core, MVC, Web Forms), Angular  
 
+<br/>
+
 ### Databases  
 - SQL Server, MySQL  
 - PhpMyAdmin, PDO  
 
+<br/>
+
 ### Design Tools  
 - Figma, WireframeSketcher, Bootstrap, Adobe XD 
+
+<br/>
 
 ### Version Control & DevOps  
 - Git, GitHub, Azure DevOps, FileZilla  
 
+<br/>
+
+
 ### IDEs & Code Editors  
 - Visual Studio, Visual Studio Code, NetBeans  
 
+<br/>
 
 
 ### Focus Areas  
