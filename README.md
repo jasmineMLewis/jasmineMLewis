@@ -1,8 +1,8 @@
 # 👩🏽‍💻 Personal Branding Statement
 
-**Full Stack Software Engineer | Product-Minded Leader | Founder @ [IglooNation Tech](https://github.com/IglooNationTech)** 
+**Software Engineer | Product Owner | Technical Business Analyst | Technical Operations | Founder @ [IglooNation Tech](https://github.com/IglooNationTech)** 
 <br/>
-Building enterprise software through a seamless fusion of creativity with engineering—delivering elegant, scalable, and human-centered solutions.
+Building enterprise-ready digital systems through a fusion of creativity, engineering, and UX—delivering clear, scalable, and human-centered solutions.
 
 <br/>
 
@@ -20,31 +20,35 @@ To harness systems thinking and innovation to build products and services that e
 
 # 🪪 Bio
 
-Jasmine M. Lewis is a solutions-oriented software engineer who combines creativity, systems thinking, and technical expertise to deliver scalable, human-centered enterprise applications.
+Jasmine M. Lewis is a multidisciplinary Software Engineer, Product Owner, and Technical Business Analyst who blends creativity, systems thinking, and engineering discipline to build scalable, human-centered digital systems.
 
-She has led platform-level initiatives that support complex, multi-user systems with role-based access, scalable data architecture, and enterprise-grade functionality.
+She specializes in Technical Operations, UX-aligned development, and multi-environment platform coordination—translating complex requirements into intuitive workflows, structured documentation, and reliable enterprise solutions.
+
+Jasmine has supported initiatives involving role-based access, data architecture, cross-team coordination, and modernization of legacy systems. Her work spans end-to-end application development, requirements analysis, UX documentation, and collaboration with both technical and non-technical stakeholders.
+
+She has delivered impactful software and system solutions for Xavier University of Louisiana, the Housing Authority of New Orleans, Blue Streak Technologies, Civix, DreamMega, and Next To Eat.
+
+As founder of [IglooNation Tech](https://github.com/IglooNationTech), Jasmine merges engineering with purposeful innovation—creating technology that expands access, strengthens digital experiences, and delivers community-centered impact.
 
 
 ### Skills
-- C#, VB.NET, ASP.NET (MVC, Web Forms)  
-- Angular, TypeScript, PHP, SQL, Scalable Database Design  
-- Product Ownership, Agile Methodologies, User Story Mapping  
-- UI/UX Design, Figma, WireframeSketcher  
+- Languages: C#, VB.NET, ASP.NET MVC/Web Forms, Angular, TypeScript, PHP, SQL
+- Architecture: Database Architecture, Multi-Tier & Role-Based Systems, Application Architecture, Data Modeling
+- Product & UX: Product Strategy, Agile, Backlog Management, UX Documentation, Personas, Customer Journey
+- Operations: Troubleshooting, Digital Systems
 
 
 ### Contributions
-She has successfully delivered impactful software solutions for:
+She has successfully delivered impactful software and system solution for:
 
-- **Xavier University of Louisiana** – Developed an Angular (TypeScript) single-page application with 115+ reusable components for prostate cancer health education, and built a full-stack PHP (with MySQL) peer-review CMS for evaluating healthcare teaching practices  
+- **[Xavier University of Louisiana](https://www.xula.edu/)** – Developed an Angular (TypeScript) single-page application with 115+ reusable components for prostate cancer health education, and built a full-stack PHP (with MySQL) peer-review CMS for evaluating healthcare teaching practices
+  
+- **[Housing Authority of New Orleans](https://www.hano.org/)** – Delivered multiple VB.NET (ASP.NET Web Forms) systems for document audits, scholarship applications, and voucher registration across public housing programs  
 
-- **Housing Authority of New Orleans** – Delivered multiple VB.NET (ASP.NET Web Forms) systems for document audits, scholarship applications, and voucher registration across public housing programs  
+- **[Civix](https://gocivix.com/)** – Contributed to FAA airport data infrastructure migration, transforming legacy MS Access systems into scalable Angular and C# .NET web applications  
 
-- **Civix** – Contributed to FAA airport data infrastructure migration, transforming legacy MS Access systems into scalable Angular and C# .NET web applications  
+- **[Blue Streak Technologies](https://www.bstek.net/)** – Developed C# .NET tools to track and manage disaster recovery efforts across Puerto Rico, supporting long-term post-hurricane funding and reporting  
 
-- **Blue Streak Technologies** – Developed C# .NET tools to track and manage disaster recovery efforts across Puerto Rico, supporting long-term post-hurricane funding and reporting  
-
-
-As the founder of **[IglooNation Tech](https://github.com/IglooNationTech)**, Jasmine bridges engineering with entrepreneurship—crafting tech solutions that are not only innovative but purposeful.  
 
 
 ### Education
