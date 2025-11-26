@@ -32,6 +32,7 @@ She has delivered impactful software and system solutions for Xavier University 
 
 As founder of [IglooNation Tech](https://github.com/IglooNationTech), Jasmine merges engineering with purposeful innovation—creating technology that expands access, strengthens digital experiences, and delivers community-centered impact.
 
+<br/>
 
 ### Skills
 - Languages: C#, VB.NET, ASP.NET MVC/Web Forms, Angular, TypeScript, PHP, SQL
@@ -39,6 +40,7 @@ As founder of [IglooNation Tech](https://github.com/IglooNationTech), Jasmine me
 - Product & UX: Product Strategy, Agile, Backlog Management, UX Documentation, Personas, Customer Journey
 - Operations: Troubleshooting, Digital Systems
 
+<br/>
 
 ### Contributions
 She has successfully delivered impactful software and system solution for:
@@ -51,7 +53,7 @@ She has successfully delivered impactful software and system solution for:
 
 - **[Blue Streak Technologies](https://www.bstek.net/)** – Developed C# .NET tools to track and manage disaster recovery efforts across Puerto Rico, supporting long-term post-hurricane funding and reporting  
 
-
+<br/>
 
 ### Education
 
@@ -66,11 +68,12 @@ She has successfully delivered impactful software and system solution for:
 - Urban Leaders Equity & Diversity (ULEAD) Leadership Academy, Urban League of Louisiana (2019 Winter Cohort)  
 - LEAD Together Community Training Program, Foundation for Louisiana (2017 Cohort)
 
-
+<br/>
 
 ### Leadership & Service
 Jasmine serves on the board of **People Housing+** and is a committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
 
+<br/>
 <br/>
 
 # 🏆 Technical Accomplishments
