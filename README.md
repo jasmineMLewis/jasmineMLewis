@@ -87,7 +87,7 @@ Developed and enhanced a C#.NET web application for the Central Office for Recov
 **Tech Stack:**  
 - **Languages & Frameworks:** C# .NET, ASP.NET MVC, Entity Framework, LINQ  
 - **Architecture:** N-Tier  
-- **Database:** SQL Server (50+ table DB)
+- **Database:** SQL Server (175+ table DB)
 
 
 ### FAA NPIAS Data Warehouse Migration  
@@ -98,7 +98,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ  
 - **Architecture:** N-Tier  
-- **Database:** SQL Server (50+ table DB)
+- **Database:** SQL Server (100+ table DB)
 
 
 ### Housing Choice Connect  
