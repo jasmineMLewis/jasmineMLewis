@@ -62,16 +62,16 @@ She has successfully delivered impactful software and system solution for:
 - Ruby on Rails Bootcamp Alum, Tech Talent & Strategy (2019)  
 
 **Business**  
-- IDEAinstitute Fellowship, The Idea Village (Spring 2025 Cohort)  
+- [DEAinstitute Business Accelerator](https://www.ideavillage.org/ideainstitute), The Idea Village (Spring 2025 Cohort)  
 
 **Community**  
-- Urban Leaders Equity & Diversity (ULEAD) Leadership Academy, Urban League of Louisiana (2019 Winter Cohort)  
-- LEAD Together Community Training Program, Foundation for Louisiana (2017 Cohort)
+- [Urban Leaders Equity & Diversity (ULEAD) Leadership Academy](https://urbanleaguela.org/ulead/), Urban League of Louisiana (2019 Winter Cohort)  
+- [LEAD Together Community Training Program](https://www.foundationforlouisiana.org/join-the-movement-shape-new-orleans-future-with-the-together-initiative/), Foundation for Louisiana (2017 Cohort)
 
 <br/>
 
 ### Leadership & Service
-Jasmine serves on the board of **People Housing+** and is a committee leader with the **Junior League of New Orleans**, reflecting her passion for community uplift and systemic change.
+Jasmine serves on the board of **[People Housing](https://phplusnola.org/)+** and is a committee leader with the **[Junior League of New Orleans](https://www.jlno.org/)**, reflecting her passion for community uplift and systemic change.
 
 <br/>
 <br/>
@@ -93,7 +93,7 @@ Developed and enhanced a C#.NET web application for the Central Office for Recov
 ### FAA NPIAS Data Warehouse Migration  
 **Job:** Civix  
 **Role:** Full Stack Intermediate Developer  
-Led migration from MS Access to Angular SPA; streamlined internal analysis for 3,300 airports. Took over solo dev duties mid-project.  
+Modernized a legacy Microsoft Access system into an Angular 7 + C#.NET SPA with N-Tier architecture, supporting FAA funding, and ranking for 3,300 NPIAS airports
 
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 7, C# .NET, ASP.NET MVC, Entity Framework, LINQ  
@@ -107,7 +107,7 @@ Led migration from MS Access to Angular SPA; streamlined internal analysis for 3
 Designed and developed a VB.NET web application to modernize the voucher registration process for 17,000+ Section 8 participants and 1,500+ properties. Reduced registration flow from 7 steps to 2, improved overall UX, and built an administrative dashboard to support housing staff. Managed the full SDLC from requirements gathering to deployment and user support.  
 
 **App:** [🔗 View](https://legacy.hano.org/HousingChoiceConnect/)<br>
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Housing-Choice-Connect)<br>
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Housing-Choice-Connect)<br>
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 3  
 - **Architecture:** Monolithic  
@@ -119,7 +119,7 @@ Designed and developed a VB.NET web application to modernize the voucher registr
 **Role:** Junior Programmer  
 Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit files for 23,000+ Section 8 voucher holders and public housing participants. Improved system performance by reducing report load time from 5 to 1 minute, consolidated 4 complex reports into 3, and implemented role-based workflows for housing specialists and auditors.
 
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Quality-Control-Monitor)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
 - **UI Design:** Master & Nested Pages  
@@ -133,7 +133,7 @@ Redesigned an outdated auditing system into a scalable VB.NET CMS used to audit 
 Designed and developed HANO’s first scholarship web application using VB.NET and Bootstrap. Delivered a streamlined one-page form and admin portal for submission review, digitizing the award process and enabling $2,000+ grants for 40+ applicants since 2018. 
 
 **App:** [🔗 View](https://legacy.hano.org/CNIScholarshipProgram/)<br>
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Choice-Neighborhood-Initiative-Scholarship-Award-Program)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
 - **Architecture:** Monolithic  
@@ -145,7 +145,7 @@ Designed and developed HANO’s first scholarship web application using VB.NET a
 **Role:** Junior Programmer  
 Automated 4-stage file process for 150+ staff; managed user access, archives, and file requests.  
 
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/File-Tracker)  
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/File-Tracker)  
 **Tech Stack:**  
 - **Languages & Frameworks:** VB.NET (.NET 6), ASP.NET 4.0, JavaScript, Bootstrap 4  
 - **Architecture:** Monolithic  
@@ -200,7 +200,7 @@ Lead coordination with offshore developers to support the design and delivery of
 Developed an Angular 15 single-page application (SPA) to educate users on prostate health, cancer risks, and available screening options. Transformed static PowerPoint content into a dynamic, multimedia learning experience across 5 interactive modules. Built 115 reusable components using modular architecture, TypeScript, and Bootstrap 4, and deployed the platform via FileZilla on GoDaddy.
 
 **Website:** [🔗 View](http://prostatecancertraining.com/home)<br>
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Xula-Prostate-Cancer-Screening)  
 **Tech Stack:**  
 - **Languages & Frameworks:** Angular 15, TypeScript, JavaScript, HTML, CSS5, Bootstrap 4  
 - **Tools & Platforms:** Azure DevOps, Visual Studio Code, Git, GitKraken, WireframeSketcher, FileZilla, GoDaddy  
@@ -213,7 +213,8 @@ Developed an Angular 15 single-page application (SPA) to educate users on prosta
 **Role:** PHP Full Stack Developer  
 Developed a custom PHP6-based peer-review CMS for an 8-member research team evaluating healthcare teaching practices. Built 21 dynamic forms, automated 4-stage reviewer workflows, and implemented OOP components with Excel exports. Structured a 40-table relational MySQL database to manage assignments, review logic, and administrator controls. Deployed using cPanel and FileZilla on GoDaddy.
 
-**Code:** [💻 GitHub](https://github.com/jasmineMLewis/Best-Practice-Cultural-Competence)  
+**Code:** [💻 GitHub Repository](https://github.com/jasmineMLewis/Best-Practice-Cultural-Competence)  
+**Video:** [🎥 Demo Video](https://vimeo.com/1032744185)
 **Tech Stack:**  
 - **Languages & Frameworks:** PHP6, JavaScript, HTML5, CSS3, SQL  
 - **Database & Backend:** MySQL, PhpMyAdmin, PDO  
